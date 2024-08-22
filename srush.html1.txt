@@ -1,0 +1,29 @@
+<html>
+
+<head>
+
+<title>Sample Form</title>
+
+<head>
+
+<body>
+
+<h1>sample Form</h1>
+
+<form action="submit.html"method="post">
+
+<!-text input-->
+
+<label for="name">name: </label>
+
+<input type="text" id="name"name="name"required><br><br>
+
+<!--password input-->
+
+<label for="password">password: </label>
+
+<input type="password" id="password" name="password" required><br><br>
+
+<!--Email input-->
+
+<label for="email">email:</label>
